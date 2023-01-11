@@ -7,7 +7,7 @@ méthodes d’apprentissage des enseignants dans toute la France. Une fois que t
 informations ont été rassemblées il sera plus simple pour le client, dans notre cas la direction du 
 numérique pour l’éducation (DNE) et les enseignants, d’exploiter les informations.
 
-(Pour plus d'informations, visualisez le cahier des charges en PDF : https://github.com/IUTInfoAix-R202-2022/sae-g1c/blob/main/S205-G1_C-Cahier_des_Charges.pdf )
+(Pour plus d'informations, visualisez le cahier des charges en PDF : https://github.com/Globostofo/projet-ihm/blob/main/S205-G1_C-Cahier_des_Charges.pdf)
 
 ## Equipe
 Equipe : CECCARELLI Luca, CLEMENT Romain, GONTIER Luke, LAFITTE Antoine
