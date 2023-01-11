@@ -19,7 +19,7 @@ Une fois que l'application a été demarrée, vous êtes amenés sur un onglet d
 (Pour plus d'informations sur la structure de l'application et ses fonctionalités, visualisez le cahier des charges en PDF : https://github.com/IUTInfoAix-R202-2022/sae-g1c/blob/main/S205-G1_C-Cahier_des_Charges.pdf )
 
 ### Schéma relationel de la base de données
-![alt text](https://github.com/IUTInfoAix-R202-2022/sae-g1c/blob/main/schema_relationel_BD.png)
+![alt text](https://github.com/Globostofo/projet-ihm/blob/main/schema_relationel_BD.png?raw=true)
 
 ### Prérequis
 Le projet a été réalisé avec le SDK *openjdk-18.0.1.1*, il est donc possible de l'exécuter avec cette version ou une version supérieure du SDK.
